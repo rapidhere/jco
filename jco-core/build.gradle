@@ -1,0 +1,8 @@
+group 'ranttu.rapid.jco'
+version '1.0-SNAPSHOT'
+
+sourceSets {
+    test {
+
+    }
+}
