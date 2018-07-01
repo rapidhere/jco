@@ -1,4 +1,5 @@
 rootProject.name = 'jco-parent'
 include 'jco-core'
 include 'jco-test'
+include 'jco-apt'
 

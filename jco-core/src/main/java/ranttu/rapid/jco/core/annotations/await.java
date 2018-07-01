@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2018 All Rights Reserved.
  */
-package ranttu.rapid.jco;
+package ranttu.rapid.jco.core.annotations;
 
 /**
  * @author rapid
